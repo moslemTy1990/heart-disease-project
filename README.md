@@ -35,3 +35,17 @@ Created a ML model for heart disease binary classification.
 * Numpy
 * Scikit-learn
 * Seaborn
+
+
+## Classification Report
+
+
+            precision    recall  f1-score   support
+
+           0       0.89      0.86      0.88        29
+           1       0.88      0.91      0.89        32
+
+    accuracy                           0.89        61
+
+
+
